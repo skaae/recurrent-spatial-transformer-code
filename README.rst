@@ -12,7 +12,7 @@ The repository contains code for running
 
 Example og RNN-SPN classifying cluttered MNIST sequences.
 
-.. image:: https://raw.githubusercontent.com/skaae/recurrent-spatial-transformer-code/master/zoom.png
+.. image:: https://github.com/skaae/recurrent-spatial-transformer-code/blob/master/zoom.png
     :alt: Example
     :width: 200
     :height: 140
