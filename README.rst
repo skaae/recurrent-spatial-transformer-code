@@ -19,4 +19,15 @@ Example og RNN-SPN classifying cluttered MNIST sequences.
     :align: center
 
 
-Please cite XXXXX and Lasagne if you use the code or the Transformerlayer.
+Please cite [1] and Lasagne [2] if you use the code or the Transformerlayer.
+
+References
+==========
+
+1. Recurrent Spatial Transformer Networks
+   Søren Kaae Sønderby, Casper Kaae Sønderby, Lars Maaløe and Ole Winther
+2. Lasagne: First release
+   https://github.com/Lasagne/Lasagne/
+   https://zenodo.org/record/27878#.Vfrw685sDhk
+
+
