@@ -7,13 +7,12 @@ The repository contains code for running
 
  * RNN-SPN model
  * FFN-SPN model
- * FFN
 
 
 
 Example og RNN-SPN classifying cluttered MNIST sequences.
 
-.. image:: https://raw.githubusercontent.com/skaae/transformer_network/master/combined_small.png
+.. image:: https://raw.githubusercontent.com/skaae/recurrent-spatial-transformer-code/master/zoom.png
     :alt: Example
     :width: 200
     :height: 140
