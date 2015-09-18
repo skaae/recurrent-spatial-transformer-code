@@ -24,13 +24,12 @@ Please cite [1] and Lasagne [2] if you use the code or the Transformerlayer.
 References
 ==========
 
-1. Recurrent Spatial Transformer Networks
+1. Recurrent Spatial Transformer Networks \\
+   Søren Kaae Sønderby, Casper Kaae Sønderby, Lars Maaløe and Ole Winther \\
+   http://arxiv.org/abs/1509.05329 
 
-   Søren Kaae Sønderby, Casper Kaae Sønderby, Lars Maaløe and Ole Winther
-2. Lasagne: First release
-
-   https://github.com/Lasagne/Lasagne/
-
-   https://zenodo.org/record/27878#.Vfrw685sDhk
+2. Lasagne: First release \\
+   https://github.com/Lasagne/Lasagne/ \\
+   https://zenodo.org/record/27878#.Vfrw685sDhk \\
 
 
