@@ -1,7 +1,7 @@
 Recurrent Spatial Transformer Networks
 ======================================
 
-Code for the paper XXXXXX
+Code for the paper http://arxiv.org/abs/1509.05329
 
 The repository contains code for running
 
