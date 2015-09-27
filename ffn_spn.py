@@ -8,6 +8,9 @@ from __future__ import division
 import numpy as np
 import theano.tensor as T
 import theano
+
+theano.config.floatX = 'float32'
+
 import lasagne
 from confusionmatrix import ConfusionMatrix
 import os
