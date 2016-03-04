@@ -20,8 +20,7 @@ np.random.seed(1234)
 
 ### create list with distortions
 all_digits = np.concatenate([mnist_data['X_train'],
-                             mnist_data['X_valid'],
-                             mnist_data['X_train']], axis=0)
+                             mnist_data['X_valid']], axis=0)
 all_digits = all_digits.reshape([-1] + ORG_SHP)
 num_digits = all_digits.shape[0]
 
